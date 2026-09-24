@@ -19,6 +19,16 @@ A general-purpose repo for coding. It holds lots of **unrelated projects**: what
 - Be direct. If something is wrong, broken, or a bad idea, say so plainly. Don't sugarcoat it.
 - Keep it chill and casual.
 - **The owner's latest instruction wins.** If they override an earlier rule, including one in this file, follow the override and update this file to match.
+- **Auto-push after the go-ahead.** Once the owner approves something you coded, commit and push it right away. Don't ask "want me to push?" again.
+- **ADHD-friendly responses.** Use the `/anthropic-skills:i-have-adhd` style every session:
+  - Put the next action first.
+  - Number multi-step tasks.
+  - Restate where things stand in one line.
+  - Don't open with preamble or close with pleasantries.
+  - Keep lists to 5 items or fewer.
+  - Keep the bluntness.
+
+  In Claude Code, invoke that skill at the start of each session.
 
 ## Project index
 
